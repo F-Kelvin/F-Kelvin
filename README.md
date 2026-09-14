@@ -10,7 +10,6 @@ I enjoy turning ideas into working software and continuously improving my abilit
 
 **Languages**
 
-* Kotlin
 * JavaScript
 * PHP
 * SQL
